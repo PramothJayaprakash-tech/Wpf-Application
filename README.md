@@ -41,20 +41,8 @@ A snapshot of the SQL Server database shows how the data is structured and store
 
 ![image](https://github.com/user-attachments/assets/ab50c49e-e820-426b-8408-17cc3fb41920)
 
-
 ---
-
-## **Getting Started**
-
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Open the solution in **Visual Studio**.
-3. Update the connection string in `App.config` to match your SQL Server setup.
-4. Build and run the application.
-
----
+ 
 
 ## **Technologies Used**
 - **WPF**: For the user interface.
